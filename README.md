@@ -1,4 +1,7 @@
-# Welcome to BNB Chain Knowledge Base
+mkdocs.yml    # The configuration file.
+docs/
+    index.md  # The documentation homepage.
+    ...       # Other markdown pages, images and other files.# Welcome to BNB Chain Knowledge Base
 
 This is the BNB Chain Knowledge Base documentation for the BNB Chain developers. It is based on the Mkdocs Material theme. 
 
